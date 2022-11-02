@@ -15,6 +15,7 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
         System.out.println("Задача 3");
+        System.out.println("Из-за того, что условия задачи были неточны, было использовано предложение целого числа");
         dog = (int) (dog - 3.5);
         cat = cat - 1.6;
         paper = paper - 7639;
